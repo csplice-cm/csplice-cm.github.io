@@ -7,13 +7,13 @@ This is a placeholder for materials related to the CSPLICE Curriculum Materials 
 
 Thu Feb 28, 2019, 5:30 PM - 6:20 PM.  Hyatt: Great Lakes A1 & A2 (4th floor)
 
-Convener: Austin Cory Bart, acbart@udel.edu, https://acbart.com
+Convener: Austin Cory Bart, acbart@udel.edu, <https://acbart.com>
 
 *Discussion Leaders:* 
-* Austin Cory Bart, acbart@udel.edu, https://acbart.com
-* Michael Hilton (mhilton@cmu.edu, cs.cmu.edu/~mhilton, CMU), 
+* Austin Cory Bart, acbart@udel.edu, <https://acbart.com>
+* Michael Hilton (mhilton@cmu.edu, <https://cs.cmu.edu/~mhilton>, CMU), 
 * Bob Edmison (kedmison@vt.edu, Virginia Tech), 
-* Phill Conrad (phtcon@ucsb.edu, UC Santa Barbara, cs.ucsb.edu/~pconrad)
+* Phill Conrad (phtcon@ucsb.edu, UC Santa Barbara, <https://cs.ucsb.edu/~pconrad>)
 
 
 *Abstract:* Packaging materials is a generalized term to capture a broad array of tasks (creating,
