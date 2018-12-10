@@ -1,4 +1,3 @@
-# csplice-cm.github.io
 
 This is a placeholder for materials related to the CSPLICE Curriculum Materials Working Group.
 
