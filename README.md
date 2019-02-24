@@ -2,8 +2,8 @@ This site hosts resources and links for the CSPLICE Curriculum Materials Working
 
 Jump quickly to...
 
-* [CSSplice Working Group Presentation]()
-* [Birds of a feather session]()
+* [CSSplice Working Group Presentation](#sigcse19-cssplice-working-group-report)
+* [Birds of a feather session](#sigcse19-birds-of-a-feather-session)
 
 # Introduction to the Working Group
 
