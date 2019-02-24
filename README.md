@@ -17,11 +17,15 @@ for creating repositories, tools, and materials.
 
 # Original 2018 White Paper
 
-The editable 2018 White Paper about the problem of Curricular Packaging, which led to this working group, can be found on [here](https://docs.google.com/document/d/1gvbfjz4_at1fmAUfR02dOP1WycM63iV_jML-osnQT9c/edit). We also have a [frozen PDF](cssplice-cm.github.io/Curriculum%20Format%20White%20Paper.pdf).
+The editable 2018 White Paper about the problem of Curricular Packaging, which led to this working group, can be found on [here](https://docs.google.com/document/d/1gvbfjz4_at1fmAUfR02dOP1WycM63iV_jML-osnQT9c/edit). We also have a [frozen PDF](resources/Curriculum%20Format%20White%20Paper.pdf).
 
 # Joining
 
 Join our conversations through our [Google Group](https://groups.google.com/forum/#!forum/cssplice-curriculum-packaging-working-group).
+
+# Resources
+
+Our static resources are located under [Resources](resources/resources.md).
 
 # Events
 
