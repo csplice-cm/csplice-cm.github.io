@@ -1,3 +1,12 @@
+# Presentation Abstract
+
+Packaging materials is a generalized term to capture a broad array of tasks (creating, revising, sharing, finding, crediting, etc.) for materials such as assignments, teacher notes, and evaluation data. Substantial effort has gone into creating materials over the years, but the community still struggles to find ways to effectively manage these. This Working Group is tasked to develop a standard and protocols for curricular material packaging, joining with broader efforts of standardization (e.g., CSSPLICE) and existing initiatives for creating repositories, tools, and materials.
+
+In this talk, we will begin by introducing the Curriculum Packaging Problem, example scenarios involving the problem, and common issues we have seen.
+Then, we will review existing work in the area and existing collections of materials.
+Next, we will discuss our vision for a Git-based, plain-text course format supported by best practices for packaging.
+Finally, we will discuss our concrete short, medium, and long-term plans moving forward, and the way that interested members can get involved.
+
 # Who are we?
 
 * Austin Cory Bart - University of Delaware
