@@ -42,18 +42,18 @@
 * [Leake & Lewis '17](https://dl.acm.org/citation.cfm?id=3017780): SIGCSE’17 paper with guidelines and notes about developing CS resource sharing sites, targeted at K-12 space.
 * OER and Learning Objects are the existing subfields in Education
 * Other projects are more narrow slices of packaged curriculum:
- * OpenDSA, Canturbury Question Bank
+  * OpenDSA, Canturbury Question Bank
 
 # Description of proposed format (4 minutes)
 
 Our current vision to start tackling this problem:
 
 * Develop and promote a Git-based format for courses.
- * Build curricula material templates in plain text formats (YAML/Markdown)
- * Develop converters from/to common LMS and import formats (e.g., Common Cartridge, Canvas API, PEML)
+  * Build curricula material templates in plain text formats (YAML/Markdown)
+  * Develop converters from/to common LMS and import formats (e.g., Common Cartridge, Canvas API, PEML)
 * Develop a shared vocabulary to promote best practices
- * Taxonomy and definitions for various Nouns ("Lesson", "Module", "Assignment", etc.)
- * Definitions and formal processes for various Verbs ("Creating", "Sharing", "Evaluating", etc.)
+  * Taxonomy and definitions for various Nouns ("Lesson", "Module", "Assignment", etc.)
+  * Definitions and formal processes for various Verbs ("Creating", "Sharing", "Evaluating", etc.)
 
 # Description of Best Practices documentation (2 minutes)
 
@@ -68,24 +68,24 @@ Our current vision to start tackling this problem:
 # Major steps for breakout:
 
 * What are our pain points with curriculum packaging right now?
- * How frequently do we encounter each type of pain points?
- * What scenarios did we miss?
+  * How frequently do we encounter each type of pain points?
+  * What scenarios did we miss?
 * How have you been solving these problems so far?
- * Specific processes you follow
- * Specific tools you've developed or use
- * What are your colleagues doing?
+  * Specific processes you follow
+  * Specific tools you've developed or use
+  * What are your colleagues doing?
 * What motivations do you need with respect to curriculum packaging?
- * Money? Tech support? Pedagogical support? Promotion credit? Public accolades?
+  * Money? Tech support? Pedagogical support? Promotion credit? Public accolades?
 * When considering tools to help you with this, how much do you prefer automation vs. manual effort?
 * What repositories, projects, and research should we know more about?
 
 # Where do we go from here?
 * Short term:
- * Join our [Google Group](https://groups.google.com/forum/#!forum/cssplice-curriculum-packaging-working-group)
- * Review our candidate solutions
+  * Join our [Google Group](https://groups.google.com/forum/#!forum/cssplice-curriculum-packaging-working-group)
+  * Review our candidate solutions
   * UCSB Jekyll theme for Git courses
   * Waltz - tool for moving course material between Canvas and a Git repo
- * Answer our Google Form (forthcoming) about pain points in Curriculum Packaging
+  * Answer our Google Form (forthcoming) about pain points in Curriculum Packaging
 * Long term:
- * Write up our specification and best practices
- * Have one or more repositories adopt our format (CSEngageEdu?)
+  * Write up our specification and best practices
+  * Have one or more repositories adopt our format (CSEngageEdu?)
