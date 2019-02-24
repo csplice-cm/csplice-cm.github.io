@@ -1,3 +1,5 @@
+# Curriculum Materials Working Group
+
 This site hosts resources and links for the CSPLICE Curriculum Materials Working Group.
 
 Jump quickly to...
@@ -39,3 +41,8 @@ Full agenda is [CSSPLICE Workshop Report](presentations/sigcse19/cssplice_workin
 
 Full agenda for [Birds-of-a-Feather](presentations/sigcse19/cssplice_birds-of-a-feather.md) with links and references.
 
+# Terminology
+
+We are the "Curriculum Materials" Working Group, although it is fine to say we are the "Curriculum Packaging" Working Group.
+
+When abbreviating, regardless of whether you refer to us and the problem as "Curriculum Materials", "Curriculum Packaging", or "Curriculum Materials Packaging", the acronym is CM. This avoids certain unfortunate shortenings. 
