@@ -29,7 +29,7 @@ Full agenda is [CSSPLICE Workshop Report](presentations/sigcse19/cssplice_workin
 
 ## SIGCSE'19 Birds-of-a-Feather Session
 
-Full agenda for [Birds-of-a-Feather]((presentations/sigcse19/cssplice_birds-of-a-feather.md) with links and references.
+Full agenda for [Birds-of-a-Feather](presentations/sigcse19/cssplice_birds-of-a-feather.md) with links and references.
 
 ### Summary
 
