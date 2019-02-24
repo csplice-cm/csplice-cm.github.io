@@ -82,10 +82,14 @@ Our current vision to start tackling this problem:
 # Where do we go from here?
 * Short term:
   * Join our [Google Group](https://groups.google.com/forum/#!forum/cssplice-curriculum-packaging-working-group)
-  * Review our candidate solutions
-  * UCSB Jekyll theme for Git courses
-  * Waltz - tool for moving course material between Canvas and a Git repo
-  * Answer our Google Form (forthcoming) about pain points in Curriculum Packaging
+  * Propose/Review candidate solutions
+    * UCSB Jekyll theme for Git courses
+    * Waltz - tool for moving course material between Canvas and a Git repo
+    * ...
+* Medium Term
+  * Fill out our Google Form about pain points in Curriculum Packaging
+  * Join in our discussion about our formats
 * Long term:
   * Write up our specification and best practices
+  * Package some exemplar materials in our format
   * Have one or more repositories adopt our format (CSEngageEdu?)
