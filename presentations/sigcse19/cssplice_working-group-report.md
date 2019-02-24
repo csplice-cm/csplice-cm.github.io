@@ -9,10 +9,10 @@ Finally, we will discuss our concrete short, medium, and long-term plans moving 
 
 # Who are we?
 
-* Austin Cory Bart - University of Delaware
-* Phill Conrad - University of Santa Barbara
-* Michael Hilton - CMU
-* Bob Edmison - Virginia Tech
+* Austin Cory Bart (University of Delaware, acbart@udel.edu, <https://acbart.com>)
+* Michael Hilton (CMU, mhilton@cmu.edu, <https://cs.cmu.edu/~mhilton>)
+* Bob Edmison (Virginia Tech, kedmison@vt.edu)
+* Phill Conrad (UC Santa Barbara, phtcon@ucsb.edu, <https://cs.ucsb.edu/~pconrad>)
 
 # Overview of the problem (4 minutes)
 
