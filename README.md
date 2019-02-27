@@ -6,6 +6,7 @@ Jump quickly to...
 
 * [CSSplice Working Group Presentation](presentations/sigcse19/cssplice_working-group-report.md)
 * [Birds of a feather session](presentations/sigcse19/cssplice_birds-of-a-feather.md)
+* [Python Sneks](https://acbart.github.io/python-sneks/)
 
 # Introduction to the Working Group
 
