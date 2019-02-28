@@ -1,6 +1,6 @@
 # Curriculum Materials Working Group
 
-This site hosts resources and links for the CSPLICE Curriculum Materials Working Group.
+This site hosts resources and links for the [CSPLICE](https://cssplice.github.io/) Curriculum Materials Working Group.
 
 Jump quickly to...
 
