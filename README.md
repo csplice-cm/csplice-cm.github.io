@@ -33,6 +33,15 @@ Join our conversations through our [Google Group](https://groups.google.com/foru
 
 Our static resources are located under [Resources](resources/resources.md).
 
+# Open Challenges
+
+* Templates
+  * Quizzes
+  * Slides
+  * etc.
+* Public vs. Private
+
+
 # Events
 
 The following subsections have information about events related to our Working Group.
