@@ -1,9 +1,15 @@
-This site hosts resources and links for the CSPLICE Curriculum Materials Working Group.
+# Curriculum Materials Working Group
+
+This site hosts resources and links for the [CSPLICE](https://cssplice.github.io/) Curriculum Materials Working Group.
 
 Jump quickly to...
 
 * [CSSplice Working Group Presentation](presentations/sigcse19/cssplice_working-group-report.md)
 * [Birds of a feather session](presentations/sigcse19/cssplice_birds-of-a-feather.md)
+* [Python Sneks](https://acbart.github.io/python-sneks/)
+* [Google Doc Notes from Working Group Breakout Session](https://docs.google.com/document/d/1CUNT_KNSR_mASeIos9iM_deefqw3ZeN1sOJUsjfdOmk/edit?usp=sharing)
+* [UCSB CS Course Repos (Github Pages/Jekyll format)](https://ucsb-cs-course-repos.github.io/)
+
 
 # Introduction to the Working Group
 
@@ -17,11 +23,24 @@ for creating repositories, tools, and materials.
 
 # Original 2018 White Paper
 
-The editable 2018 White Paper about the problem of Curricular Packaging, which led to this working group, can be found on [here](https://docs.google.com/document/d/1gvbfjz4_at1fmAUfR02dOP1WycM63iV_jML-osnQT9c/edit). We also have a [frozen PDF](cssplice-cm.github.io/Curriculum%20Format%20White%20Paper.pdf).
+The editable 2018 White Paper about the problem of Curricular Packaging, which led to this working group, can be found on [here](https://docs.google.com/document/d/1gvbfjz4_at1fmAUfR02dOP1WycM63iV_jML-osnQT9c/edit). We also have a [frozen PDF](resources/Curriculum%20Format%20White%20Paper.pdf).
 
 # Joining
 
 Join our conversations through our [Google Group](https://groups.google.com/forum/#!forum/cssplice-curriculum-packaging-working-group).
+
+# Resources
+
+Our static resources are located under [Resources](resources/resources.md).
+
+# Open Challenges
+
+* Templates
+  * Quizzes
+  * Slides
+  * etc.
+* Public vs. Private
+
 
 # Events
 
@@ -35,3 +54,8 @@ Full agenda is [CSSPLICE Workshop Report](presentations/sigcse19/cssplice_workin
 
 Full agenda for [Birds-of-a-Feather](presentations/sigcse19/cssplice_birds-of-a-feather.md) with links and references.
 
+# Terminology
+
+We are the "Curriculum Materials" Working Group, although it is fine to say we are the "Curriculum Packaging" Working Group.
+
+When abbreviating, regardless of whether you refer to us and the problem as "Curriculum Materials", "Curriculum Packaging", or "Curriculum Materials Packaging", the acronym is CM. This avoids certain unfortunate shortenings. 
