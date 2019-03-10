@@ -4,6 +4,8 @@
 
 Thu Feb 28, 2019, 5:30 PM - 6:20 PM.  Hyatt: Great Lakes A1 & A2 (4th floor)
 
+[Rough Transcript of BoF Session](cssplice_bof-notes.md)
+
 Convener: Austin Cory Bart, acbart@udel.edu, <https://acbart.com>
 
 *Discussion Leaders:* 
