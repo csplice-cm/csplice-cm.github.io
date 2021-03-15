@@ -4,6 +4,7 @@ This site hosts resources and links for the [CSPLICE](https://cssplice.github.io
 
 Jump quickly to...
 
+* [Our Google Group](https://groups.google.com/forum/#!forum/cssplice-curriculum-packaging-working-group)
 * [CSSplice Working Group Presentation](presentations/sigcse19/cssplice_working-group-report.md)
 * [Birds of a feather session](presentations/sigcse19/cssplice_birds-of-a-feather.md)
 * [Python Sneks](https://acbart.github.io/python-sneks/)
