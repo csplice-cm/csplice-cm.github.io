@@ -4,13 +4,9 @@ This site hosts resources and links for the [CSPLICE](https://cssplice.github.io
 
 Jump quickly to...
 
-* [Our Google Group](https://groups.google.com/forum/#!forum/cssplice-curriculum-packaging-working-group)
-* [CSSplice Working Group Presentation](presentations/sigcse19/cssplice_working-group-report.md)
-* [Birds of a feather session](presentations/sigcse19/cssplice_birds-of-a-feather.md)
-* [Python Sneks](https://acbart.github.io/python-sneks/)
-* [Google Doc Notes from Working Group Breakout Session](https://docs.google.com/document/d/1CUNT_KNSR_mASeIos9iM_deefqw3ZeN1sOJUsjfdOmk/edit?usp=sharing)
-* [UCSB CS Course Repos (Github Pages/Jekyll format)](https://ucsb-cs-course-repos.github.io/)
-
+* [Our Google Group](https://groups.google.com/forum/#!forum/cssplice-curriculum-packaging-working-group) for discussion
+* [Collected Resources](resources/resources.md) that we think make progress in solving this problem
+* [The original whitepaper](resources/Curriculum%20Format%20White%20Paper.pdf) pitching our idea
 
 # Introduction to the Working Group
 
@@ -46,6 +42,11 @@ Our static resources are located under [Resources](resources/resources.md).
 # Events
 
 The following subsections have information about events related to our Working Group.
+
+* [CSSplice Working Group Presentation](presentations/sigcse19/cssplice_working-group-report.md)
+* [Birds of a feather session](presentations/sigcse19/cssplice_birds-of-a-feather.md)
+* [Google Doc Notes from Working Group Breakout Session](https://docs.google.com/document/d/1CUNT_KNSR_mASeIos9iM_deefqw3ZeN1sOJUsjfdOmk/edit?usp=sharing)
+* [UCSB CS Course Repos (Github Pages/Jekyll format)](https://ucsb-cs-course-repos.github.io/)
       
 ## SIGCSE'19 CSSPLICE Working Group Report
 
