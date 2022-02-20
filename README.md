@@ -6,7 +6,7 @@ Jump quickly to...
 
 * [Our Google Group](https://groups.google.com/forum/#!forum/cssplice-curriculum-packaging-working-group) for discussion
 * [Collected Resources](resources/resources.md) that we think make progress in solving this problem
-* [The original whitepaper](resources/Curriculum%20Format%20White%20Paper.pdf) pitching our idea
+* [The original whitepaper](resources/2018%20Curriculum%20Format%20White%20Paper.pdf) pitching our idea
 
 # Introduction to the Working Group
 
@@ -20,7 +20,7 @@ for creating repositories, tools, and materials.
 
 # Original 2018 White Paper
 
-The editable 2018 White Paper about the problem of Curricular Packaging, which led to this working group, can be found on [here](https://docs.google.com/document/d/1gvbfjz4_at1fmAUfR02dOP1WycM63iV_jML-osnQT9c/edit). We also have a [frozen PDF](resources/Curriculum%20Format%20White%20Paper.pdf).
+The editable 2018 White Paper about the problem of Curricular Packaging, which led to this working group, can be found on [here](https://docs.google.com/document/d/1gvbfjz4_at1fmAUfR02dOP1WycM63iV_jML-osnQT9c/edit). We also have a [frozen PDF](resources/2018%20Curriculum%20Format%20White%20Paper.pdf).
 
 # Joining
 
